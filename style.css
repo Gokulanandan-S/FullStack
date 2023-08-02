@@ -1,6 +1,7 @@
-h1,h2{
+h2{
     color:darkorchid;
     text-align: center;
+
     
 }
 .this{
@@ -14,3 +15,15 @@ h1,h2{
     padding-left: 45%;
 
 }
+h1{
+
+    text-align: center;
+    /* background-color:aquamarine; */
+    border:3px solid;
+    /* border-width: 1080px; */
+    border-color: rgb(185, 14, 14);
+    /* width: 2080px; */
+
+    /* margin:auto; */
+    margin-top: 10px;
+  }
