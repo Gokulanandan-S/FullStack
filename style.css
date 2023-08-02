@@ -1,0 +1,16 @@
+h1,h2{
+    color:darkorchid;
+    text-align: center;
+    
+}
+.this{
+    
+    font-size: larger;
+}
+.second{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    padding-left: 45%;
+
+}
