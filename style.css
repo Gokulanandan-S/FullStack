@@ -9,6 +9,7 @@ h2{
     font-size: larger;
 }
 .second{
+    text-align: center;
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: oblique;
@@ -27,3 +28,10 @@ h1{
     /* margin:auto; */
     margin-top: 10px;
   }
+.buttonn{
+    transform: translateX(-100%);
+
+}
+.print{
+    transform: translateX(-360%);
+}

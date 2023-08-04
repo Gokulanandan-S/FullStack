@@ -29,3 +29,6 @@ for (var ele in a){
         }
     }
 }
+
+a=()=>console.log("one line function")
+a()
