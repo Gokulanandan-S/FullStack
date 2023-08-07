@@ -29,8 +29,11 @@ h1{
     margin-top: 10px;
   }
 .buttonn{
-    transform: translateX(-100%);
-
+    display: flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+    align-items: baseline;
+    flex-wrap: nowrap;
 }
 .print{
     transform: translateX(-360%);
